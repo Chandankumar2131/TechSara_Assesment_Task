@@ -1,0 +1,6 @@
+{
+  "model": "logistic_regression",
+  "accuracy": 0.8766233766233766,
+  "f1_score": 0.8571428571428571,
+  "created_at": "2026-01-29T23:34:01.340670"
+}

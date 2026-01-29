@@ -1,0 +1,11 @@
+{
+  "status": "DEPLOYED",
+  "timestamp": "2026-01-29T23:34:01.703125",
+  "model_version": "v20260129_233401",
+  "logic_gate_result": "PASSED",
+  "metrics": {
+    "baseline_f1": 0.8571428571428571,
+    "new_model_f1": 0.9197080291970803,
+    "improvement": 0.06256517205422318
+  }
+}

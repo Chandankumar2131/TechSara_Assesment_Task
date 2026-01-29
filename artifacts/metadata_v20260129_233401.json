@@ -1,0 +1,13 @@
+{
+  "model_type": "random_forest",
+  "version": "v20260129_233401",
+  "hyperparameters": {
+    "n_estimators": 150,
+    "max_depth": 12,
+    "min_samples_split": 4
+  },
+  "performance": {
+    "accuracy": 0.9285714285714286,
+    "f1_score": 0.9197080291970803
+  }
+}
